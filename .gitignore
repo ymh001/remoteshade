@@ -1,0 +1,22 @@
+.DS_Store
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+dist/
+build/
+
+# Local development and working notes
+/AGENTS.md
+/TODO.md
+/Tests/
+/scripts/test*.sh
+/docs/changes.md
+/docs/experiments.md
+/docs/validation.md
+
+# Release binaries are distributed through GitHub Releases
+/release/*.dmg
+/release/*.sha256
+/release/archive/
